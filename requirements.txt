@@ -1,0 +1,4 @@
+ccxt
+stable-baselines3[extra]
+pandas
+wandb
